@@ -109,7 +109,6 @@ Only one sensor per type (Gyro, Acc, Baro, Mag) can be used.
 
 ## Supported Internal MicroSD Card
 
-![MicroSD Support](image)
 
 ---
 
